@@ -1,0 +1,4 @@
+mcp>=2.3,<3
+httpx2>=2.10,<3
+pydantic>=2.12,<3
+streamlit>=1.45,<2
